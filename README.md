@@ -1,4 +1,4 @@
-# zetchat
+# vuechat
 
 > Messaging App
 
