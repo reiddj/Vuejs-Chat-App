@@ -1,6 +1,6 @@
 # vuechat
 
-> Messaging App
+> This is a mobile first front end messaging feed site created with vuejs. A user types in a message and it is simply outputed on the screen with a timestamp (not persisted to a database). The momentjs library was used to format the timestamp. Additional feature will be added such as data persistence, authentication, and support for uploading a profile pic.
 
 ## Build Setup
 
